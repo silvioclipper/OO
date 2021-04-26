@@ -1,0 +1,9 @@
+{
+    "name": "silvioclipper/oo",
+    "require": {},
+    "autoload": {   
+        "psr-4": {
+            "Code\\":"src/"
+        }
+    }
+}
